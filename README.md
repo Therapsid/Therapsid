@@ -55,11 +55,8 @@ Here are the technologies I work with:
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Therapsid&show_icons=true&theme=radical" alt="github stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therapsid&layout=compact&theme=radical" alt="top languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Therapsid&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Therapsid&layout=compact&theme=radical)
 
 ---
 Thanks for visiting my profile! Let's code and grow together. 
