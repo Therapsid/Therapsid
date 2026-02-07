@@ -53,10 +53,11 @@ Here are the technologies I work with:
 - 📑 I document and test my APIs using **Swagger** and **Postman**.
 - 🗄️ I manage complex database relationships with **Spring Data JPA** and **Hibernate**.
 
-### 📊 GitHub Stats
+### ⏳ Coding Time
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Therapsid&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Therapsid&layout=compact&theme=radical)
+<a href="https://wakatime.com/@Therapsida">
+  <img src="https://wakatime.com/badge/user/Therapsida.svg" alt="Total time coded since start" />
+</a>
 
 ---
 Thanks for visiting my profile! Let's code and grow together. 
