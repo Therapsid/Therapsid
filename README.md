@@ -6,7 +6,7 @@ I love exploring new technologies, optimizing code, and designing secure, scalab
 
 ---
 
-### 🚀 Technical Stack
+###  Technical Stack
 
 Here are the technologies I work with:
 
@@ -46,7 +46,7 @@ Here are the technologies I work with:
   </a>
 </p>
 
-### ⚡ What I'm up to
+###  What I'm up to
 
 - 🔭 I’m building scalable backend systems using **Spring Boot** and **Docker**.
 - 🛡️ I implement secure authentication (OAuth2) using **Spring Security** and **Keycloak**.
@@ -62,4 +62,4 @@ Here are the technologies I work with:
 </p>
 
 ---
-Thanks for visiting my profile! Let's code and grow together. 🚀
+Thanks for visiting my profile! Let's code and grow together. 
