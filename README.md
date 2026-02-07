@@ -44,6 +44,10 @@ Here are the technologies I work with:
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/> 
   </a>
+  <a href="https://cloudinary.com" target="_blank">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="cloudinary"/>
+</a>
+  
 </p>
 
 ###  What I'm up to
