@@ -69,8 +69,7 @@ Here are the technologies I work with:
 -  I manage complex database relationships with **Spring Data JPA** and **Hibernate**.
 
 ### Most Used Languages
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Therapsid)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Therapsid&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Therapsid&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
