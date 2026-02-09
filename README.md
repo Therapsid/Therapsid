@@ -70,8 +70,6 @@ Here are the technologies I work with:
 
 ### Most Used Languages
 
-### Most Used Languages
-
 <a href="https://github.com/Therapsid">
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Therapsid
