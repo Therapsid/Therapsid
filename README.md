@@ -63,10 +63,10 @@ Here are the technologies I work with:
 
 ###  What I'm up to
 
-- 🔭 I’m building scalable backend systems using **Spring Boot** and **Docker**.
-- 🛡️ I implement secure authentication (OAuth2) using **Spring Security** and **Keycloak**.
-- 📑 I document and test my APIs using **Swagger** and **Postman**.
-- 🗄️ I manage complex database relationships with **Spring Data JPA** and **Hibernate**.
+-  I’m building scalable backend systems using **Spring Boot** and **Docker**.
+-  I implement secure authentication (OAuth2) using **Spring Security** and **Keycloak**.
+-  I document and test my APIs using **Swagger** and **Postman**.
+-  I manage complex database relationships with **Spring Data JPA** and **Hibernate**.
 
 ### ⏳ Coding Time
 
