@@ -70,7 +70,20 @@ Here are the technologies I work with:
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Therapsid&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+### Most Used Languages
+
+<a href="https://github.com/Therapsid">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Therapsid
+    &layout=compact
+    &langs_count=8
+    &theme=dracula
+    &hide_border=true
+    &custom_title=Most%20Used%20Languages"
+    alt="Most Used Languages"
+  />
+</a>
+
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Therapsid&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
