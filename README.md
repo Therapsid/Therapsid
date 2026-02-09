@@ -70,17 +70,8 @@ Here are the technologies I work with:
 
 ### Most Used Languages
 
-<a href="https://github.com/Therapsid">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Therapsid
-    &layout=compact
-    &langs_count=8
-    &theme=dracula
-    &hide_border=true
-    &custom_title=Most%20Used%20Languages"
-    alt="Most Used Languages"
-  />
-</a>
+<img src="./most-used-languages.svg" alt="Most Used Languages" />
+
 
 
 # GitHub Stats:
