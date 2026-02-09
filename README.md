@@ -68,10 +68,6 @@ Here are the technologies I work with:
 -  I document and test my APIs using **Swagger** and **Postman**.
 -  I manage complex database relationships with **Spring Data JPA** and **Hibernate**.
 
-### Most Used Languages
-
-<img src="./most-used-languages.svg" alt="Most Used Languages" />
-
 
 
 # GitHub Stats:
