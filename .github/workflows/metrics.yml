@@ -5,18 +5,27 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: Therapsid
 
-          base: ""
+          # 🔽 SVG haraya yazılsın
+          filename: github-metrics.svg
+          output_action: commit
+
+          # 🔽 Hansı branch-ə yazılsın
+          committer_branch: main
+
+          # 🔽 Languages plugin
           plugin_languages: yes
-          plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
